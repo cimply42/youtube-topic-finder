@@ -1,0 +1,7 @@
+youtube-transcript-api
+flask
+pinecone-client
+torch
+torchvision
+sentence-transformers
+python-dotenv
